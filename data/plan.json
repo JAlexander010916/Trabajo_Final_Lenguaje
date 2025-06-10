@@ -1,0 +1,30 @@
+{
+    "Lunes": {
+        "dia": "Lunes",
+        "comidas": []
+    },
+    "Martes": {
+        "dia": "Martes",
+        "comidas": []
+    },
+    "Miercoles": {
+        "dia": "Miercoles",
+        "comidas": []
+    },
+    "Jueves": {
+        "dia": "Jueves",
+        "comidas": []
+    },
+    "Viernes": {
+        "dia": "Viernes",
+        "comidas": []
+    },
+    "Sabado": {
+        "dia": "Sabado",
+        "comidas": []
+    },
+    "Domingo": {
+        "dia": "Domingo",
+        "comidas": []
+    }
+}

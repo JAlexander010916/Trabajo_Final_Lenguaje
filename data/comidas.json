@@ -1,0 +1,28 @@
+[
+    {
+        "nombre": "Arroz Imperial",
+        "ingredientes": [
+            "arroz",
+            "pollo",
+            "ajo",
+            "cebolla",
+            "salsa de tomate",
+            "huevos",
+            "mayonesa",
+            "aceite",
+            "queso",
+            "sal",
+            "pimienta"
+        ],
+        "creada": "2025-06-03T17:38:24.496015"
+    },
+    {
+        "nombre": "Huevo Frito",
+        "ingredientes": [
+            "un huevo",
+            "aceite",
+            "sal"
+        ],
+        "creada": "2025-06-07T02:37:03.361917"
+    }
+]
